@@ -6,6 +6,7 @@
 [Library Requirements File (For Python2)][req2]
 ***
 
+* [Chapter 3: WebClient Programming][chap3]
 * [Chapter 4: Multithreaded Programming][chap4]
     * [Example 4-10: Locks and More Randomness (mtsleepF.py)][e4-10]
     * [Example 4-11: Candy Vending Machines and Semaphores (candy.py)][e4-11]
@@ -68,6 +69,7 @@
     * [Example 6-4: MongoDB Example][e6-4]
 
 [req2]: /requirements.txt
+[chap3]: /Chap3
 [chap4]: /Chap4
 [e4-10]: /Chap4/mtsleepF.py
 [e4-11]: /Chap4/candy.py
